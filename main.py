@@ -8,7 +8,7 @@ from aiogram.types import Message, BufferedInputFile, InlineKeyboardMarkup, Inli
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 from PIL import Image
 
-BOT_TOKEN = "8659651577:AAHAJqMkbLecqdyPfHyxOInvFeE5Qd936QA"
+BOT_TOKEN = ""
 logging.basicConfig(level=logging.INFO)
 
 bot = Bot(token=BOT_TOKEN)
